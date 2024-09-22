@@ -87,7 +87,7 @@
     "predeploy": "npm run start",
     "deploy": "gh-pages -d start"
   },
-  "homepage": "https://basherbd.github.io/skks/",
+  "homepage": "https://basherbd.github.io/rbasher/",
   "keywords": [],
   "author": "",
   "license": "ISC",
